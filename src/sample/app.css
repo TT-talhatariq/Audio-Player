@@ -1,0 +1,14 @@
+.button{
+    -fx-background-color: aquamarine;
+    -fx-border-color: black;
+    -fx-font-size: 20px;
+}
+#btn{
+    -fx-background-color: green;
+    -fx-border-color: yellow;
+
+}
+#circle{
+
+}
+
